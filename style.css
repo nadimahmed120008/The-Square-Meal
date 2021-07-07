@@ -98,7 +98,7 @@ body {
     overflow: hidden;
   }
   
-  .receipe {
+  .recipe {
     padding: 50px;
     text-align: center;
   }
@@ -106,7 +106,7 @@ body {
     display: flex;
   }
   
-  .receipe-image {
+  .recipe-image {
     width: 300px;
     overflow: hidden;
     border-radius: 18px;
@@ -115,7 +115,7 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
-  .receipe-text {
+  .recipe-text {
     font-size: 14px;
     line-height: 18px;
     margin-bottom: 20px;
@@ -130,7 +130,7 @@ body {
     padding: 10px;
     border-radius: 10px;
   }
-  .receipe-title {
+  .recipe-title {
     margin-bottom: 10px;
   }
   .heading-secondary {
